@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1662492414 source:c:\users\kaio\desktop\estrutura de dados-daniel\tarefas\tarefa\main.c
+	<stdio.h>
+	<stdlib.h>
+
